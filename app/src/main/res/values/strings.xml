@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity and Intent</string>
+    <string name="welcome_to_the_second_page">Welcome to the Second Page</string>
+    <string name="go_back">Go back</string>
+</resources>
